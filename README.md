@@ -16,7 +16,7 @@
 
 ## Technical Profile
 
-Dual-degree student pursuing B.Tech Computer Science (AI/ML) at **MIT Manipal** (CGPA: 8.70) and B.Sc Data Science at **IIT Madras** (CGPA: 8.1). Finalist at Adobe Hackathon with specialization in computer vision, 3D object recognition, and production ML systems. Former NDA cadet (AIR-254, 0.07% acceptance rate).
+Dual-degree student pursuing B.Tech Computer Science (AI/ML) at **MIT Manipal** (CGPA: 8.70) and B.Sc Data Science at **IIT Madras** (CGPA: 8.1). Semi-Finalist at Adobe Hackathon with specialization in computer vision, 3D object recognition, and production ML systems. Former NDA cadet (AIR-254, 0.07% acceptance rate).
 
 ---
 
