@@ -1,0 +1,1 @@
+{"name":"striker-eureka-profile","version":"1.0.0","description":"GitHub profile readme updater","main":"updater.js","scripts":{"update":"node updater.js"},"author":"Ayush Kumar","license":"MIT","dependencies":{"@octokit/rest":"^22.0.1"}}
