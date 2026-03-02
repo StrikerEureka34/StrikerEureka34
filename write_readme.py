@@ -90,12 +90,18 @@ Behavioral authentication via typing dynamics.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrikerEureka34{amp}theme=transparent{amp}hide_border=true{amp}ring=58A6FF{amp}fire=58A6FF{amp}currStreakLabel=58A6FF{amp}sideLabels=8B949E{amp}dates=8B949E{amp}currStreakNum=C9D1D9{amp}sideNums=C9D1D9" width="520" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=StrikerEureka34{amp}theme=transparent{amp}hide_border=true{amp}ring=58A6FF{amp}fire=58A6FF{amp}currStreakLabel=58A6FF{amp}sideLabels=8B949E{amp}dates=8B949E{amp}currStreakNum=C9D1D9{amp}sideNums=C9D1D9" width="520" alt="streak"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StrikerEureka34{amp}show_icons=true{amp}theme=transparent{amp}hide_border=true{amp}icon_color=58A6FF{amp}title_color=58A6FF{amp}text_color=C9D1D9{amp}count_private=true" height="165" alt="stats"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerEureka34{amp}layout=compact{amp}theme=transparent{amp}hide_border=true{amp}title_color=58A6FF{amp}text_color=C9D1D9{amp}langs_count=6" height="165" alt="langs"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrikerEureka34{amp}theme=github-compact{amp}hide_border=true{amp}area=true{amp}color=58A6FF{amp}line=58A6FF{amp}point=FFFFFF{amp}area_color=58A6FF" width="95%" alt="activity graph"/>
 </div>
 
 ---

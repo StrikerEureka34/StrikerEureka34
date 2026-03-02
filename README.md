@@ -86,12 +86,18 @@ Behavioral authentication via typing dynamics.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrikerEureka34&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="520" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=StrikerEureka34&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="520" alt="streak"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StrikerEureka34&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&count_private=true" height="165" alt="stats"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerEureka34&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=6" height="165" alt="langs"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrikerEureka34&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF" width="95%" alt="activity graph"/>
 </div>
 
 ---
