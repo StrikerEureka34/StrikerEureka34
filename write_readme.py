@@ -1,6 +1,10 @@
-<div align="center">
+import os
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=ayush%40github+~%2F+%24+whoami;ML+Engineer+%7C+CV+%7C+3D+Deep+Learning+%7C+Production+Systems" alt="typing" />
+amp = "&"
+
+readme = f"""<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono{amp}size=13{amp}duration=3000{amp}pause=1000{amp}color=58A6FF{amp}center=true{amp}vCenter=true{amp}multiline=true{amp}repeat=false{amp}width=500{amp}height=80{amp}lines=ayush%40github+~%2F+%24+whoami;ML+Engineer+%7C+CV+%7C+3D+Deep+Learning+%7C+Production+Systems" alt="typing" />
 
 </div>
 
@@ -9,10 +13,10 @@
 <p align="center"><strong>ML Engineer</strong> &nbsp;&#183;&nbsp; Computer Vision &nbsp;&#183;&nbsp; 3D Deep Learning &nbsp;&#183;&nbsp; Production Systems</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayush-kumar-607a382a5"><img src="https://img.shields.io/badge/-ayush--kumar-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:nayush2001@gmail.com"><img src="https://img.shields.io/badge/-nayush2001-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/StrikerEureka34"><img src="https://img.shields.io/badge/-StrikerEureka34-181717?style=flat&logo=github&logoColor=white"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=StrikerEureka34&style=flat&color=58A6FF&label=profile+views"/>
+  <a href="https://linkedin.com/in/ayush-kumar-607a382a5"><img src="https://img.shields.io/badge/-ayush--kumar-0A66C2?style=flat{amp}logo=linkedin{amp}logoColor=white"/></a>&nbsp;
+  <a href="mailto:nayush2001@gmail.com"><img src="https://img.shields.io/badge/-nayush2001-EA4335?style=flat{amp}logo=gmail{amp}logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/StrikerEureka34"><img src="https://img.shields.io/badge/-StrikerEureka34-181717?style=flat{amp}logo=github{amp}logoColor=white"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=StrikerEureka34{amp}style=flat{amp}color=58A6FF{amp}label=profile+views"/>
 </p>
 
 <p align="center">
@@ -26,11 +30,11 @@
 ### `$ ls /skills`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,cs,js&perline=5" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,cs,js{amp}perline=5" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,flask&perline=5" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,flask{amp}perline=5" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,react,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,react,vscode{amp}perline=6" />
 </div>
 
 ---
@@ -80,18 +84,18 @@ Behavioral authentication via typing dynamics.
 ### `git log --stat`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StrikerEureka34&theme=onestar&no-frame=true&row=1&column=6&no-bg=true" width="95%" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=StrikerEureka34{amp}theme=onestar{amp}no-frame=true{amp}row=1{amp}column=6{amp}no-bg=true" width="95%" alt="trophies"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrikerEureka34&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="520" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrikerEureka34{amp}theme=transparent{amp}hide_border=true{amp}ring=58A6FF{amp}fire=58A6FF{amp}currStreakLabel=58A6FF{amp}sideLabels=8B949E{amp}dates=8B949E{amp}currStreakNum=C9D1D9{amp}sideNums=C9D1D9" width="520" alt="streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StrikerEureka34&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&count_private=true" height="165" alt="stats"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerEureka34&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=6" height="165" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=StrikerEureka34{amp}show_icons=true{amp}theme=transparent{amp}hide_border=true{amp}icon_color=58A6FF{amp}title_color=58A6FF{amp}text_color=C9D1D9{amp}count_private=true" height="165" alt="stats"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerEureka34{amp}layout=compact{amp}theme=transparent{amp}hide_border=true{amp}title_color=58A6FF{amp}text_color=C9D1D9{amp}langs_count=6" height="165" alt="langs"/>
 </div>
 
 ---
@@ -111,3 +115,12 @@ Behavioral authentication via typing dynamics.
 <div align="center">
   <sub>Currently exploring &#8212; CV research &#183; MLOps &#183; open source</sub>
 </div>
+"""
+
+path = os.path.join(os.path.dirname(__file__), "README.md")
+with open(path, "w", encoding="utf-8") as f:
+    f.write(readme)
+
+lines = readme.splitlines()
+print(f"Written {len(lines)} lines")
+print(f"First line: {lines[0]}")
