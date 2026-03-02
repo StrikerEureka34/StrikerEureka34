@@ -90,14 +90,8 @@ Behavioral authentication via typing dynamics.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StrikerEureka34&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&count_private=true" height="165" alt="stats"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrikerEureka34&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=6" height="165" alt="langs"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrikerEureka34&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF" width="95%" alt="activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StrikerEureka34&theme=github_dark" height="165" alt="stats"/>&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StrikerEureka34&theme=github_dark" height="165" alt="langs"/>
 </div>
 
 ---
