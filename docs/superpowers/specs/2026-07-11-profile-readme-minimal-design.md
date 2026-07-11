@@ -33,8 +33,8 @@ Rewrite `README.md` into 5 sections, roughly 60 lines. Keep the terminal aesthet
 
 Short linked list. Lead entry gets two lines because it is the strongest signal:
 
-- **LFX Mentee, CNCF / krkn-chaos** (Jun 2026 to present): building the Automated Documentation Sync Bot, a GitHub Action plus LLM agent that turns merged upstream PRs into draft docs PRs. Mentored by Red Hat engineers, 12+ PRs merged upstream. Links to `krkn-docs-bot` (18 stars).
-- `kubeedge-edge-llm-inference-demo`: edge LLM inference demo on KubeEdge (CNCF)
+- **LFX Mentee, CNCF / krkn-chaos** (Jun 2026 to present): building the Automated Documentation Sync Bot, a GitHub Action plus LLM agent that turns merged upstream PRs into draft docs PRs. Mentored by Red Hat engineers, 12+ PRs merged upstream. Links to https://github.com/StrikerEureka34/krkn-docs-bot. The 18 star count is context for this spec, do not render star counts in the README, they go stale.
+- `kubeedge-edge-llm-inference-demo`: edge LLM inference demo on KubeEdge (CNCF). Links to https://github.com/StrikerEureka34/kubeedge-edge-llm-inference-demo.
 
 ### Section 3: `$ ls research + projects/`
 
@@ -47,7 +47,7 @@ Plain linked list, one line each:
 
 ### Section 4: `$ watch contributions`
 
-Snake animation image, unchanged (served from the `output` branch by `.github/workflows/snake.yml`).
+Snake animation served from the `output` branch by `.github/workflows/snake.yml`. Improvement over the current embed: the workflow already generates both light and dark variants, but the README only embeds the dark one. Use a `<picture>` element with `prefers-color-scheme` sources so the right variant shows on both GitHub themes.
 
 ### Section 5: Footer
 
