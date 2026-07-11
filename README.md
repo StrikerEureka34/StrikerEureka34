@@ -20,15 +20,13 @@
 
 <br/>
 
-### `$ ls /skills`
+### `$ ls open-source/`
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,cs,js&perline=5" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,flask&perline=5" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,react,vscode&perline=6" />
-</div>
+**[krkn-docs-bot](https://github.com/StrikerEureka34/krkn-docs-bot)**, LFX Mentee, CNCF / krkn-chaos (Jun 2026, present)
+Automated Documentation Sync Bot: a GitHub Action plus LLM agent that turns a merged upstream PR into a draft docs PR. Mentored by Red Hat engineers on the krkn-chaos team, 12+ PRs merged upstream so far.
+
+**[kubeedge-edge-llm-inference-demo](https://github.com/StrikerEureka34/kubeedge-edge-llm-inference-demo)**
+Edge native LLM inference demo built for KubeEdge (CNCF).
 
 <br/>
 
