@@ -49,37 +49,20 @@ Pose estimation for physiotherapy guidance.
 ### `$ watch contributions`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/StrikerEureka34/StrikerEureka34/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrikerEureka34/StrikerEureka34/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/StrikerEureka34/StrikerEureka34/output/github-contribution-grid-snake.svg" alt="snake" />
+  </picture>
 </div>
 
 <br/>
 
-### `git log --stat`
+### `$ cat skills.txt`
+
+Python, Go, PyTorch, OpenCV, GitHub Actions, Docker, Kubernetes, AWS
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=StrikerEureka34&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="520" alt="streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StrikerEureka34&theme=github_dark" height="165" alt="stats"/>&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StrikerEureka34&theme=github_dark" height="165" alt="langs"/>
-</div>
-
-<br/>
-
-### `cat highlights.txt`
-
-```
-Adobe Hackathon Semi-finalist   -> nationwide competition
-NDA AIR-254                     -> 0.07% acceptance rate
-IIT Jodhpur Research Intern     -> ML applications
-Dual Degree 8.5+ CGPA          -> MIT Manipal + IIT Madras
-```
-
-<br/>
-
-<div align="center">
-  <sub>Currently exploring: CV research &#183; MLOps &#183; open source</sub>
+  <sub>Currently: LFX Mentee at CNCF / krkn-chaos, and Software Engineering Intern at Kenvue.</sub>
 </div>
