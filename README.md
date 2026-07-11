@@ -22,7 +22,7 @@
 
 ### `$ ls open-source/`
 
-**[krkn-docs-bot](https://github.com/StrikerEureka34/krkn-docs-bot)**, LFX Mentee, CNCF / krkn-chaos (Jun 2026, present)
+**[krkn-docs-bot](https://github.com/StrikerEureka34/krkn-docs-bot)**, LFX Mentee, CNCF / krkn-chaos (Jun 2026 to present)
 Automated Documentation Sync Bot: a GitHub Action plus LLM agent that turns a merged upstream PR into a draft docs PR. Mentored by Red Hat engineers on the krkn-chaos team, 12+ PRs merged upstream so far.
 
 **[kubeedge-edge-llm-inference-demo](https://github.com/StrikerEureka34/kubeedge-edge-llm-inference-demo)**
