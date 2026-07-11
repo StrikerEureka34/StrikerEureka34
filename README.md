@@ -1,23 +1,21 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=ayush%40github+~%2F+%24+whoami;ML+Engineer+%7C+CV+%7C+3D+Deep+Learning+%7C+Production+Systems" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=560&height=80&lines=ayush%40github+~+%24+whoami;dev+tooling+%2B+automation+%7C+ML+%2F+CV" alt="typing" />
 
 </div>
 
 <h1 align="center">Ayush Kumar</h1>
 
-<p align="center"><strong>ML Engineer</strong> &nbsp;&#183;&nbsp; Computer Vision &nbsp;&#183;&nbsp; 3D Deep Learning &nbsp;&#183;&nbsp; Production Systems</p>
+<p align="center">Developer tooling and automation &nbsp;&#183;&nbsp; ML &amp; computer vision</p>
 
 <p align="center">
-  B.Tech CS (AI/ML) @ <strong>MIT Manipal</strong> &nbsp;&#183;&nbsp; B.Sc Data Science @ <strong>IIT Madras</strong><br/>
-  Adobe Hackathon Semi-finalist &nbsp;&#183;&nbsp; Former NDA Cadet (AIR-254, 0.07% acceptance)
+  B.Tech CS (AI &amp; ML) @ <strong>MIT Manipal</strong> &nbsp;&#183;&nbsp; B.S. Data Science @ <strong>IIT Madras</strong>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-kumar-607a382a5"><img src="https://img.shields.io/badge/-ayush--kumar-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="mailto:nayush2001@gmail.com"><img src="https://img.shields.io/badge/-nayush2001-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/StrikerEureka34"><img src="https://img.shields.io/badge/-StrikerEureka34-181717?style=flat&logo=github&logoColor=white"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=StrikerEureka34&style=flat&color=58A6FF&label=profile+views"/>
+  <a href="https://github.com/StrikerEureka34"><img src="https://img.shields.io/badge/-StrikerEureka34-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 <br/>
