@@ -30,21 +30,19 @@ Edge native LLM inference demo built for KubeEdge (CNCF).
 
 <br/>
 
-### `ls projects/`
+### `$ ls research + projects/`
 
-<table><tr><td width="50%">
+**[Dynamic-Keystrokes-Pure-ML-Approach](https://github.com/StrikerEureka34/Dynamic-Keystrokes-Pure-ML-Approach)**
+Adversarial robustness benchmark for keystroke dynamics authentication, built during a research internship at IIT Jodhpur. Paper under review.
 
-**[Automatic Expense Tracker](https://github.com/StrikerEureka34/Automatic-Expense-Tracker)**
-End-to-end expense intelligence with ML categorization.
-`Receipt OCR` &#183; `Full-stack`
+**[Automatic-Expense-Tracker](https://github.com/StrikerEureka34/Automatic-Expense-Tracker)**
+Android app that auto-captures spend from payment app notifications and receipt OCR, using ML Kit and vision LLMs.
 
-</td><td width="50%">
+**[3D-Object-Classification](https://github.com/StrikerEureka34/3D-Object-Classification)**
+3D deep learning on the ModelNet40 dataset.
 
-**[Rehab AI](https://github.com/StrikerEureka34/Rehab-AI)**
-Computer vision for physiotherapy guidance.
-`Pose estimation` &#183; `Real-time CV`
-
-</td></tr></table>
+**[RehabAi](https://github.com/StrikerEureka34/RehabAi)**
+Pose estimation for physiotherapy guidance.
 
 <br/>
 
