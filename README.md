@@ -32,17 +32,22 @@ Edge native LLM inference demo built for KubeEdge (CNCF).
 
 ### `$ ls research + projects/`
 
-**[Dynamic-Keystrokes-Pure-ML-Approach](https://github.com/StrikerEureka34/Dynamic-Keystrokes-Pure-ML-Approach)**
-Adversarial robustness benchmark for keystroke dynamics authentication, built during a research internship at IIT Jodhpur. Paper under review.
-
 **[Automatic-Expense-Tracker](https://github.com/StrikerEureka34/Automatic-Expense-Tracker)**
-Android app that auto-captures spend from payment app notifications and receipt OCR, using ML Kit and vision LLMs.
-
-**[3D-Object-Classification](https://github.com/StrikerEureka34/3D-Object-Classification)**
-3D deep learning on the ModelNet40 dataset.
+- Captures spend with no manual entry: a WorkManager background job reads GPay/PhonePe/Paytm notifications and receipt images, OCR      and a vision-LLM extract merchant, total and date into SQLite, and a regex fallback takes over below 30% confidence.
 
 **[RehabAi](https://github.com/StrikerEureka34/RehabAi)**
-Pose estimation for physiotherapy guidance.
+- APython/Flask backend serves MoveNet 17-keypoint pose analysis through a custom state machine for joint angles and movement phase;
+  a native Kotlin/Jetpack Compose Android client, built MVVM with a repository layer, runs ML Kit detection on device.
+- Tuned for safety over latency: conservative thresholds, 40-frame smoothing, feedback capped at one per 1000ms.
+  In beta with physiotherapists.
+
+**[Dynamic-Keystrokes-Pure-ML-Approach](https://github.com/StrikerEureka34/Dynamic-Keystrokes-Pure-ML-Approach)**
+- Adversarial robustness benchmark for keystroke dynamics authentication, built during a research internship at IIT Jodhpur.
+- This is version-1, current version is strictly confidential untill paper is published in TIFS(Q1 Journal)
+
+**[3D-Object-Classification](https://github.com/StrikerEureka34/3D-Object-Classification)**
+- 3D deep learning on the ModelNet40 dataset.
+
 
 <br/>
 
